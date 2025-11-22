@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite as below."
+title: "LLaMA-Based Intelligent Incident Management System"
+authors:
+  - family-names: "Gajre"
+    given-names: "Laksh"
+    email: "lakshgajre.bs23@bmsce.ac.in"
+    affiliation: "B.M.S. College of Engineering"
+version: "1.0.0"
+date-released: "2025-11-23"
+doi: ""
+repository-code: "https://github.com/lakshgajre2004-sys/llama-incident-system-public"
+keywords:
+  - Incident Management
+  - LLaMA
+  - AIOps
+  - Root Cause Analysis
+  - Machine Learning
+  - DevOps
+  - Automation
