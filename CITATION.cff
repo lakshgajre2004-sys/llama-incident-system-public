@@ -17,7 +17,7 @@ authors:
 
 version: "1.0.0"
 date-released: "2025-11-23"
-doi: ""
+doi: "10.5281/zenodo.17683498"
 repository-code: "https://github.com/lakshgajre2004-sys/llama-incident-system-public"
 keywords:
   - Incident Management
