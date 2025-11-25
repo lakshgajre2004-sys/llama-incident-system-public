@@ -319,6 +319,7 @@ Laksh Gajre,Venkatraman Naik,Amruth MS
 
 Email: lakshgajre.bs23@bmsce.ac.in
        venkatraman.bs24@bmsce.ac.in 
+       amruthams.bs23@bmsce.ac.in
 
 GitHub: https://github.com/lakshgajre2004-sys
 
